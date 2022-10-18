@@ -16,6 +16,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Degimoh&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Degimoh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Degimoh&theme=juicyfresh&no-bg=true" />
+
+[![Codewars Badge](https://www.codewars.com/users/Degimoh/badges/large)](https://www.codewars.com/users/Degimoh)
 
 
 <!--
